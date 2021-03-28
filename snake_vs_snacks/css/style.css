@@ -1,0 +1,23 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color:green;
+}
+
+.board{ 
+	padding-left:40px;
+ }
+
+.button-frame{
+	padding:25px;
+}
+.title{
+	padding-bottom:4em;
+}
